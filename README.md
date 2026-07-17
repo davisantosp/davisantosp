@@ -62,14 +62,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir em **proje
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=davisantosp&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <div align="center">
   <p>
     <i>"O segredo da existência humana reside não só em viver, mas também em saber para que se vive."</i>
