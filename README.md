@@ -12,9 +12,12 @@
 ## 📓 About me
 4th-semester student of **Bachelor's in Science and Technology** with a focus on **Computer Science** at **UNIFESP (Federal University of São Paulo)**,
 having started my programming studies in early 2025, and since then I've been looking to technology as a brush to paint the canvas of life 🎨.
+
 Pursuing a career in the corporate world, I'm specializing in **Back-End/Full-Stack development**, studying technologies such as **Java**, **Spring Framework**, **Angular**, and **PostgreSQL**.
-I love studying as a whole, and I have a passion for learning new things — within programming, my interests include: **Software Development**, **Microservices and Distributed Systems**,
+
+I love studying as a whole, and I have a passion for learning new things, within programming, my interests include: **Software Development**, **Microservices and Distributed Systems**,
 **Software Architecture and Design**, and **Project Orchestration with AIs/LLMs**.
+
 My goal is to continuously grow as a developer and contribute to **projects that change how the world sees technology**.
 
 ---
