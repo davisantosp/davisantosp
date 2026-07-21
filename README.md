@@ -1,5 +1,4 @@
-<h1 align="center">👋 Oie! Eu sou o Davi dos Santos</h1>
-
+<h1 align="center">👋 Hey there! I'm Davi dos Santos</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-dos-santos-pinto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -10,47 +9,39 @@
   </a>
 </p>
 
-## 📓 Sobre mim
-
-Estudante do 4° Período de **Bacharelado em Ciência e Tecnologia** com foco em **Ciências da Computação** na **UNIFESP (Universidade Federal de São Paulo)**,
-tendo começado meus estudos de programação no início de 2025 e desde então venho buscando na tecnologia um pincel para pintar o canvas da vida 🎨.
-
-Em busca de um carreira empresarial, estou me especializando em **desenvolvimento Back-End/Full-Stack**, estudando tecnologias como **Java**, **Spring Framework**, **Angular** e **PostgreSQL**.
-
-Adoro estudar como um todo, além de ter uma paixão em aprender coisas novas, tendo, no ramo da programação, interesses em: **Desenvolvimento de Software**, **Microserviços e Sistemas Distribuidos**,
-**Arquitetura e Design de Software** e **Orquestração de Projetos com IAs/LLMs**.
-
-Meu objetivo é evoluir continuamente como desenvolvedor e contribuir em **projetos que mudem como o mundo vê a tecnologia**.
-
+## 📓 About me
+4th-semester student of **Bachelor's in Science and Technology** with a focus on **Computer Science** at **UNIFESP (Federal University of São Paulo)**,
+having started my programming studies in early 2025, and since then I've been looking to technology as a brush to paint the canvas of life 🎨.
+Pursuing a career in the corporate world, I'm specializing in **Back-End/Full-Stack development**, studying technologies such as **Java**, **Spring Framework**, **Angular**, and **PostgreSQL**.
+I love studying as a whole, and I have a passion for learning new things — within programming, my interests include: **Software Development**, **Microservices and Distributed Systems**,
+**Software Architecture and Design**, and **Project Orchestration with AIs/LLMs**.
+My goal is to continuously grow as a developer and contribute to **projects that change how the world sees technology**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
-#### Stack Atual:
-
+#### Current Stack:
 <div align="left">
   <p>
     <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,angular,ts,docker,git,github,githubactions,linux,postman" />
   </p>
   <p>
-    <i>  Java 21+, Spring, Maven, PostreSQL, Angular, Typescript, Docker, Git, GitHub, GitHub Actions, Linux, Postman.</i>
+    <i>  Java 21+, Spring, Maven, PostgreSQL, Angular, TypeScript, Docker, Git, GitHub, GitHub Actions, Linux, Postman.</i>
   </p>  
 </div>
 
-#### Outras tecnologias com certa experiência:
-
+#### Other technologies with some experience:
 <div align="left">
   <p>
     <img src="https://skillicons.dev/icons?i=kafka,mysql,js,nodejs,jest,html,css,c,cpp,ruby,rails" />
   </p>
   <p>
-    <i>  Apache Kafka, MySQL, Javascript, NodeJS, Jest, HTML, CSS, C/C++, Ruby, Rails Framework.</i>
+    <i>  Apache Kafka, MySQL, JavaScript, NodeJS, Jest, HTML, CSS, C/C++, Ruby, Rails Framework.</i>
   </p>
 </div>
 
-#### Tecnologias que pretendo estudar mais:
-
+#### Technologies I plan to study further:
 <div align="left">
   <p>
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,redis,mongodb" />
@@ -64,9 +55,9 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir em **proje
 
 <div align="center">
   <p>
-    <i>"O segredo da existência humana reside não só em viver, mas também em saber para que se vive."</i>
+    <i>"The secret of human existence lies not only in living, but also in knowing what one lives for."</i>
   <p>
   <p>
-    Fiódor Dostoiévski, <b>Os Irmãos Karamazov</b>.
+    Fyodor Dostoevsky, <b>The Brothers Karamazov</b>.
   </p>  
 </div>
